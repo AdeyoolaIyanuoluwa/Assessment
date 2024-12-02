@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="289.9" height="205.9" viewBox="0 0 289.9 205.9">
+  <defs>
+    <filter id="Rectangle_78" x="0" y="0" width="289.9" height="205.9" filterUnits="userSpaceOnUse">
+      <feOffset dy="21.85" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15.65" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_150" data-name="Group 150" transform="translate(-645.05 -366.9)">
+    <g transform="matrix(1, 0, 0, 1, 645.05, 366.9)" filter="url(#Rectangle_78)">
+      <rect id="Rectangle_78-2" data-name="Rectangle 78" width="196" height="112" rx="10" transform="translate(46.95 25.1)" fill="#fff"/>
+    </g>
+    <circle id="Ellipse_38" data-name="Ellipse 38" cx="8" cy="8" r="8" transform="translate(706 409)" fill="#00e1f0"/>
+    <g id="Group_148" data-name="Group 148">
+      <text id="Revenue" transform="translate(730 409)" font-size="14" font-family="SegoeUI, Segoe UI"><tspan x="0" y="15">Revenue</tspan></text>
+      <g id="Group_147" data-name="Group 147">
+        <text id="_36_680" data-name="$36,680" transform="translate(706 435)" font-size="16" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="17">$36,680</tspan></text>
+        <text id="_12_" data-name="+12%" transform="translate(772 445)" fill="#00e1f0" font-size="13" font-family="SegoeUI, Segoe UI"><tspan x="0" y="14">+12</tspan></text>
+      </g>
+    </g>
+    <g id="Group_146" data-name="Group 146">
+      <text id="Compared_to_28_000_Last_Year" data-name="Compared to $28,000 Last Year" transform="translate(706 461)" fill="#718ebf" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="11">Compared to $28,000 Last Year</tspan></text>
+    </g>
+  </g>
+</svg>
