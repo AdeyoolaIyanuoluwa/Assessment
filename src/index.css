@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  @font-face {
+    font-family: "Manrope";
+    font-style: normal;
+    src: url(/fonts/Manrope.woff2) format("woff2");
+  }
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box !important;
+  }
+}
+
+@layer components {
+  .flex-between {
+    @apply flex justify-between items-center;
+  }
+}
